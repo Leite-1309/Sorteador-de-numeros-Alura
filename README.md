@@ -2,7 +2,7 @@
 # 🎲 Sorteador de Números (Sem Repetição)
 
 Projeto desenvolvido a partir de um curso da **Alura**, com foco em lógica e manipulação de arrays no **JavaScript**.  
-O aplicativo solicita:
+O site solicita:
 
 - **Quantidade** de números a sortear
 - **Valor mínimo**
